@@ -58,7 +58,7 @@ main header > h1 {
 }
 
 main header > h1 > span {
-	color: #50cef5;
+	color:red;
 }
 
 main .menu {
