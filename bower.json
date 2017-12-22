@@ -1,7 +1,7 @@
 {
-  "name": "Susmit Portfolio",
+  "name": "Chaitanya Giri",
   "authors": [
-    "Susmit Lavania"
+    "Chaitanya Giri"
   ],
   "description": "My Portfolio",
   "main": "index.html",
@@ -11,7 +11,7 @@
     "particle.js"
   ],
   "license": "MIT",
-  "homepage": "https://phunsukwangdu.github.io/",
+  "homepage": "https://chaitanyagiri.github.io/",
   "ignore": [
     "**/.*",
     "node_modules",
