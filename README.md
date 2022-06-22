@@ -1,2 +1,1 @@
-# MyProfile
-A profile cum contact page of me.
+# chaitanyagiri.github.io
