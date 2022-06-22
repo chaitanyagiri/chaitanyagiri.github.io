@@ -58,9 +58,9 @@ main header > h1 {
 }
 
 main header > h1 > span {
-	color:#ff3333;
+	color:#ffcc80;
 }
-
+ 
 main .menu {
 	list-style: none;
 	margin: 0;
@@ -96,7 +96,7 @@ main .menu li:visited {
 }
 
 main .menu li:hover > a {
-	color: #ff3333;
+	color: #ffcc80;
 }
 
 main .menu li:first-child {
@@ -108,7 +108,7 @@ main .menu li:hover:after {
 }
 
 main .menu li:after {
-	background: #ff3333;
+	background: #ffcc80;
 	bottom: -8px;
 	content: "";
 	display: block;
